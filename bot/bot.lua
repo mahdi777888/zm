@@ -90,9 +90,9 @@ function create_config( )
 		"fun",
 
 	},
-    sudo_users = {},
+    sudo_users = {119219946},
     admins = {},
-    disabled_channels = {119219946},
+    disabled_channels = {},
     moderation = {data = './data/moderation.json'},
     info_text = [[》Beyond Reborn v6.0
 An advanced administration bot based on https://valtman.name/telegram-cli
@@ -100,15 +100,13 @@ An advanced administration bot based on https://valtman.name/telegram-cli
 》https://github.com/BeyondTeam/BDReborn 
 
 》Admins :
-》@SoLiD ➣ Founder & Developer《
-》@Makan ➣ Developer《
-》@ToOfan ➣ Developer《
+》@hadi777h ➣ hadi777《
 
 》Special thanks to :
 》Beyond Team Members
 
 》Our channel :
-》@BeyondTeam《
+》@eshgolane_love《
 
 》Our website :
 》http://Beyond-Dev.iR
