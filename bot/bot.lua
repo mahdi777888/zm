@@ -120,7 +120,7 @@ end
 
 -- Returns the config from config.lua file.
 -- If file doesn't exist, create it.
-function load_config( )
+function load_config(119219946)
 	local f = io.open('./data/config.lua', "r")
   -- If config.lua doesn't exist
 	if not f then
